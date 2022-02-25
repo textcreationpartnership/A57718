@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New-England a degenerate plant who having forgot their former sufferings ... are now become famous among the nations in bringing forth the fruits of cruelty ... published for the information of all sober people who wish to know how the state of New-England now stands ... / the truth of which we are witnesses (who by their cruel hands have suffered) Iohn Rous, Iohn Copeland, Samuel Shattock, Nicholas Phelps, Josiah Soutwick. Whereunto is annexed a copy of a letter which came from one who hath been a magistrate among them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57718</idno>
+            <idno type="STC">Wing R2043</idno>
+            <idno type="STC">ESTC R28819</idno>
+            <idno type="EEBO-CITATION">10763412</idno>
+            <idno type="OCLC">ocm 10763412</idno>
+            <idno type="VID">45729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45729)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1410:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New-England a degenerate plant who having forgot their former sufferings ... are now become famous among the nations in bringing forth the fruits of cruelty ... published for the information of all sober people who wish to know how the state of New-England now stands ... / the truth of which we are witnesses (who by their cruel hands have suffered) Iohn Rous, Iohn Copeland, Samuel Shattock, Nicholas Phelps, Josiah Soutwick. Whereunto is annexed a copy of a letter which came from one who hath been a magistrate among them.</title>
+                  <author>Rous, John, d. 1695.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, printed :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  New England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45729:1" rendition="simple:additions"/>
+            <p>New-England A Degenerate PLANT.</p>
+            <p>Who having forgot their former Sufferings, and loſt their ancient tenderneſs, are now become famous among the Nations in bring<g ref="char:EOLhyphen"/>ing forth the fruits of cruelty, wherein they have far outſtript their Perſecutors the Biſhops, as by theſe their enſuing LAWS you may plainly ſee.</p>
+            <p>Publiſhed for the information of all ſober People who deſire to know how the ſtate of <hi>New-England</hi> now ſtands, and upon what foundation the <hi>New-Eng<g ref="char:EOLhyphen"/>land</hi> Churches are built, and by whoſe ſtrength they are upholden now they are degenerated and have forſaken the <hi>LORD.</hi>
+            </p>
+            <p>The Truth of which we are Wit<g ref="char:EOLhyphen"/>neſſes, (who by their cruel hands have ſuffered)
+<list>
+                  <item>
+                     <hi>Iohn Rous</hi> Strangers.</item>
+                  <item>
+                     <hi>Iohn Copeland,</hi> Strangers.</item>
+                  <item>
+                     <hi>Samuel Shattook</hi> Inhabitants.</item>
+                  <item>
+                     <hi>Nicholas Phelps</hi> Inhabitants.</item>
+                  <item>
+                     <hi>Ioſtah Southwick</hi> Inhabitants.</item>
+               </list>
+            </p>
+            <p>Whereunto is annexed a Copy of a Letter which came from one who hath been a Magiſtrate among them, to a friend of his in <hi>London,</hi> wherein he gives an account of ſome of the cruel ſuffering of the people of God in thoſe parts under the Rulers of <hi>New-England,</hi> and their un<g ref="char:EOLhyphen"/>righteous Laws.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:45729:2"/>
+            <head>New-England <hi>a Degenerate</hi> Plant, <hi>as is manifest by their following</hi> Laws.</head>
+            <div type="order">
+               <head>At a General Court held at <hi>Boſton,</hi> the <hi>14.</hi> of <hi>October, 1656.</hi>
+               </head>
+               <p>VVHereas there is a curſed Sect of Hereticks lately riſen up in the World, which are commonly cal<g ref="char:EOLhyphen"/>led <hi>Quakers,</hi> who take upon them to be immediately ſent of God, and infallibly aſſiſted by the ſpirit to ſpeak and write blaſphemous opinions, deſpiſing Government, and the or<g ref="char:EOLhyphen"/>der of God in Church and Common-Wealth, ſpeaking e<g ref="char:EOLhyphen"/>vil of Dignities, reproaching and reviling Magiſtrates and Miniſters, ſeeking to turn the people from the faith, and gain proſelytes to their pernicious wayes. This Court ta<g ref="char:EOLhyphen"/>king into ſerious conſideration the premiſes, and to prevent the like miſchief as by their means is wrought in our native Land, doth hereby order, and by the Authority of this Court be it ordered and enacted, That what Maſter or Com<g ref="char:EOLhyphen"/>mander of any Ship, Bark, Pink or Catch, that ſhall hence<g ref="char:EOLhyphen"/>forth bring into any Harbour, Creek or Cove within this Juriſdiction, any <hi>Quaker</hi> or <hi>Quakers,</hi> or other blaſphemous Hereticks, ſhall pay, or cauſe to be paid the Fine of one hun<g ref="char:EOLhyphen"/>dred pounds to the Treaſurer of the Countrey, except it appear he want true knowledge or information of their be<g ref="char:EOLhyphen"/>ing ſuch, and in that caſe he hath liberty to clear himſelf by his oath, when ſufficient proofe to the contrary is wanting, and for default of good payment, or good ſecu<g ref="char:EOLhyphen"/>rity for it, ſhall be caſt into priſon, and there to continue till the ſaid ſum be ſatisfied to the Treaſurer as aforeſaid, and the Commander of any Catch, Ship, or Veſſel that ſhall bring them, being legally convicted, ſhall give in ſufficient ſecurity to the Governor, or any one or more of the Magi<g ref="char:EOLhyphen"/>ſtrates,
+<pb n="3" facs="tcp:45729:2"/>who have power to determine the ſame, to carry them back to the place whence he brought them, and on his refuſal ſo to do, the Governor, or one or more of the Ma<g ref="char:EOLhyphen"/>giſtrates are hereby impowered to iſſue out his or their War<g ref="char:EOLhyphen"/>rants to commit ſuch Maſter or Commander to priſon, there to continue till he give in ſufficient ſecurity to the content of the Governor or any of the Magiſtrates, as aforeſaid. And it is hereby further ordered and enacted, That what <hi>Quaker</hi> ſoever ſhall arrive in this Countrey from forreign parts, or ſhall come into this Juriſdiction from any parts adjacent, ſhall be forthwith committed to the houſe of Cor<g ref="char:EOLhyphen"/>rection, and at their entrance to be ſeverely whipt, and by the Maſter thereof to be kept conſtantly to work, and none ſuffered to converſe or ſpeak with them during the time of their impriſonment, (which ſhall be no longer then neceſſi<g ref="char:EOLhyphen"/>ty require.) And it is ordered, If any perſon ſhall know<g ref="char:EOLhyphen"/>ingly import into any harbour of this Juriſdiction any <hi>Quakers</hi> Books or Writings concerning their Devilliſh Opi<g ref="char:EOLhyphen"/>nions, ſhall pay for every ſuch Book or Writing, (being le<g ref="char:EOLhyphen"/>gally proved againſt him or them) the ſum of five pounds; And whoſoever ſhall diſperſe or conceal any ſuch Book or Writing, and it be found with him or her, or in his or her houſe, and ſhall not immediately deliver the ſame to the next Magiſtrate, ſhall forfeit and pay five pounds for the diſperſing or concealing of every ſuch Book or Writing. And it is hereby further enacted, That if any perſon with<g ref="char:EOLhyphen"/>in this Collony ſhall take upon them to defend the hereti<g ref="char:EOLhyphen"/>cal Opinions of the ſaid <hi>Quakers,</hi> or any of their books or Papers as aforeſaid if legally proved, ſhall be fined for the firſt time forty ſhillings; if they ſhall perſiſt in the ſame, and ſhall <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the ſecond time, 4. l. if notwith<g ref="char:EOLhyphen"/>ſtanding <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> defend and maintain the ſaid <hi>Quakers</hi> heretical Opinions, they ſhall be committed to the houſe of correction till there be convenient paſſage to ſend <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> out of the L<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, being ſentenced by the Court of A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> hereby ordered, That w<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſoever ſhall revile the perſon of M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rates or M<gap reason="illegible" resp="#UOM" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>, as is uſual with the <hi>Quakers,</hi> each per<g ref="char:EOLhyphen"/>ſon
+<pb n="4" facs="tcp:45729:3"/>or perſons ſhall be ſeverely Whipt, or pay the ſum of Five pounds. <hi>This is a true Copy of the Courts Order, as At<g ref="char:EOLhyphen"/>teſts</hi>
+               </p>
+               <closer>
+                  <signed>Edward Rawſon, Secretary.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <head>Made at the General Court held at <hi>Boſton,</hi> the <hi>14</hi> of <hi>October, 1657.</hi>
+               </head>
+               <p>AS an Addition to the late Order, in reference to the Co<g ref="char:EOLhyphen"/>ming, or bringing in any of the curſed Sect of the <hi>Quakers</hi> into this Juriſdiction, It is Ordered, That whoſo<g ref="char:EOLhyphen"/>ever ſhall from henceforth bring, or cauſe to be brought di<g ref="char:EOLhyphen"/>rectly or indirectly, any known <hi>Quaker,</hi> or <hi>Quakers,</hi> or o<g ref="char:EOLhyphen"/>ther Blaſphemous Hereticks into this Juriſdiction, every ſuch perſons ſhall forfeit the ſum of One hundred pounds to the Country, and ſhall by Warrant from any Magiſtrate be committed to Priſon, there to remain till the penalty be ſatisfied and paid: And if any Perſon, or Perſons within this Juriſdiction, ſhall henceforth entertain and conceal a<g ref="char:EOLhyphen"/>ny ſuch <hi>Quaker</hi> or <hi>Quakers,</hi> or other blaſphemous Hereticks (knowing them ſo to be) every ſuch perſon ſhall forfeit to the Country Forty ſhillings for every hours entertainment and concealment of any <hi>Quaker</hi> or <hi>Quakers,</hi> &amp;c. as afore<g ref="char:EOLhyphen"/>ſaid, and ſhall be committed to Priſon as aforeſaid, till the forfeitures be fully ſatisfied and paid: And it is further Ordered, That if any <hi>Quaker</hi> or <hi>Quakers</hi> ſhall preſume af<g ref="char:EOLhyphen"/>ter they have once ſuffered what the Law requireth, to come into this Juriſdiction, every ſuch Male-quaker ſhall for the firſt Offence have one of his Ears cut off, and be kept at work in the Houſe of Correction till he can be ſent away at his own Charge; And for the ſecond Offence, ſhall have his other Ear cut off, and kept at the Houſe of Correction as a<g ref="char:EOLhyphen"/>foreſaid. And every Woman-quaker that hath ſuffered the Law here, that ſhall preſume to come into this Juriſdiction, ſhall be ſeverely whipt, and kept at the Houſe of Correction at Work till ſhe be ſent away at her own Charge; and ſo alſo for her comidg again, ſhe ſhall be alike uſed as afore<g ref="char:EOLhyphen"/>ſaid: And for every <hi>Quaker,</hi> he or ſhee, that ſhall a Third
+<pb n="5" facs="tcp:45729:3"/>time herein again Offend, they ſhall have their Tongues bored through with a hot Iron, and kept at the Houſe of Correction cloſe to Work, till they be ſent away at their own Charge. And it is further Ordered, That all and every <hi>Quaker,</hi> ariſing from amongſt our ſelves, ſhall be dealt with, and ſuffer the like puniſhments as the Law provides againſt forreign <hi>Quakers. <hi>This is a true Copy of the Courts Order, as Atteſts</hi>
+                  </hi>
+               </p>
+               <closer>
+                  <signed>Edward Rawſon, Secret.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>At a General Court held at <hi>Boſton,</hi> the <hi>20.</hi> of <hi>May, 1658.</hi>
+               </head>
+               <p>THat <hi>Quakers,</hi> and ſuch accurſed Hereticks, ariſing a<g ref="char:EOLhyphen"/>among our ſelves, may be dealt withal, according to their deſerts, and that their peſtilent Errours and Practiſes may be ſpeedily prevented, It is hereby Ordered as an Ad<g ref="char:EOLhyphen"/>dition to the former laws againſt <hi>Quakers,</hi> That every ſuch perſon or perſons profeſſing any of their pernitious Wayes, by ſpeaking, writing, or by meeting on the Lords-day, or at any other time, to ſtrengthen themſelves, or ſeduce o<g ref="char:EOLhyphen"/>thers to their Diabolical Doctrines, ſhall after due means of Conviction, incur the penalty enſuing; that is, Every per<g ref="char:EOLhyphen"/>ſon ſo meeting, ſhall pay to the Country for every time ten ſhillings; and every one Speaking in ſuch a Meeting ſhall pay Five pound a piece; and in caſe any ſuch perſon hath been puniſhed by Scourging or Whipping the firſt time ac<g ref="char:EOLhyphen"/>cording to the former Laws, ſhall be ſtill kept at Work in the Houſe of Correction, till they put in Security with two ſufficient men, that they ſhall not any more vent their hate<g ref="char:EOLhyphen"/>ful Errors, nor uſe their ſinful Practiſes, or elſe ſhall depart this Juriſdiction at their own Charges: And if any of them Return again, then each ſuch perſon ſhall incur the penalty of the Laws formerly made, for Strangers. <hi>By the Court.</hi>
+               </p>
+               <closer>
+                  <signed>Edw. Rawſon, Sec.</signed>
+               </closer>
+            </div>
+            <div type="act">
+               <pb n="6" facs="tcp:45729:4"/>
+               <head>An <hi>Act</hi> made at a General Court held at <hi>Boſton,</hi> the <hi>20.</hi> of <hi>October, 1658.</hi>
+               </head>
+               <p>WHereas there is a pernitious Sect (commonly called <hi>Quakers</hi>) lately riſen up, who by Word and Wri<g ref="char:EOLhyphen"/>ting have publiſhed and maintained many dangerous and horrid Tenents, and do take upon them to change and al<g ref="char:EOLhyphen"/>ter the received laudable Cuſtoms of our Nation, in giving civil Reſpect to Equals, and Reverence to Superiors; whoſe actions tend to undermine the Authority of civil Govern<g ref="char:EOLhyphen"/>ment, and alſo to deſtroy the Order of the Churches, by denying all eſtabliſhed Forms of Worſhip, and by with<g ref="char:EOLhyphen"/>drawing from the orderly Church-aſſemblies, allowed and approved by all Orthodox Profeſſors of the Truth; and inſtead thereof, and in oppoſition thereunto, frequenting private Meetings of their own, inſinuating themſelves into the minds of the Simple, or ſuch as are leaſt affected to the Order and Government of Church and Common-wealth; whereby divers of our Inhabitants have been infected and ſeduced, notwithſtanding all former Laws made upon the experience of their arrogant and bold obtruſions to de<g ref="char:EOLhyphen"/>ſeminate their Principles among us, prohibiting their co<g ref="char:EOLhyphen"/>ming into this Juriſdiction, they have not been deterred from their impecuous attempts, to undermine our Peace, and haſten our Ruine.</p>
+               <p>For prevention thereof, This Court doth Order and E<g ref="char:EOLhyphen"/>nact, That every perſon or perſons of the accurſed Sect of the <hi>Quakers,</hi> which is not an Inhabitant of, but is found within this Juriſdiction, ſhall be apprehended without Warrant, where no Magiſtrate is at hand, by any Conſtable, Commiſſioner, or Select man, and conveyed from Con<g ref="char:EOLhyphen"/>ſtable to Conſtable, until they come before the next Ma<g ref="char:EOLhyphen"/>giſtrate, who ſhall commit the ſaid perſon or perſons to cloſe Priſon, there to remain (without bail) until the next Court of Aſſiſtance, where they ſhall have a legal Tryal by a ſpecial Jury: And being convicted to be of the Sect of the <hi>Quakers,</hi> ſhall be ſentenced to be Baniſhed upon pain of
+<pb n="7" facs="tcp:45729:4"/>Death. And that every Inhabitant of this Juriſdiction be<g ref="char:EOLhyphen"/>ing convicted to be of the aforeſaid Sect, either by taking up, publiſhing, or defending the horrid Opinions of the <hi>Quakers,</hi> or the ſtirring up Mutiny, Sedition, or Rebellion againſt the Government, or by taking up their abſurd and deſtructive Practiſes, viz. Denying civil Reſpect to Equals and Reverence to Superiors, and with-drawing from our Church Aſſemblies, and inſtead thereof, frequent private Meetings of their own in oppoſition to Church-Order; or by adhering to, or approving of any known <hi>Quaker,</hi> and the Tenents and Practiſes of the <hi>Quakers,</hi> that are op<g ref="char:EOLhyphen"/>poſite to the Orthodox received Opinions and Practiſes of the godly, and endeavouring to diſaffect others to civil Government and Church-Orders, or condemning the Practiſe and Proceedings of this Court againſt the <hi>Quakers,</hi> manifeſting thereby, their complying with thoſe whoſe Deſign is to over-throw the Order Eſtabliſhed in Church and State, every ſuch perſon upon examination and legal conviction before the ſaid Court of Aſſiſtance, in manner as aboveſaid, ſhall be committed to cloſe Priſon for one Month, and then unleſs they chuſe volantarily to depart this Juriſ<g ref="char:EOLhyphen"/>diction, ſhall give Bond for their good Behaviour, and ap<g ref="char:EOLhyphen"/>pear at the next Court of Aſſiſtants, where continuing ob<g ref="char:EOLhyphen"/>ſtinate, and refuſing to Retract, and Reform the ſaid Opi<g ref="char:EOLhyphen"/>nions and Practiſes, ſhall be ſentenced to Baniſhment upon pain of Death; And in caſe of the aforeſaid voluntary Departure, not to Remain, nor again to Return into this Juriſdiction, without the allowance of the Council firſt had and publiſhed, on penalty of being Baniſhed upon pain of Death: And any one Magiſtrate upon Information gi<g ref="char:EOLhyphen"/>ven him, ſhall cauſe them to be apprehended, and if upon Examination of the Caſe he ſhall find juſt ground of ſuch complaints, he ſhall commit ſuch perſon or perſons to Priſon, according to his beſt Diſcretion, until he come to Tryal, as is above expreſt.</p>
+            </div>
+            <div type="order">
+               <pb n="8" facs="tcp:45729:5"/>
+               <head>At a General <hi>Court</hi> held at <hi>Boſton,</hi> the <hi>13th.</hi> of <hi>May 1659.</hi>
+               </head>
+               <p>WHereas the General Court, <hi>Octob.</hi> laſt, for the rea<g ref="char:EOLhyphen"/>ſons mentioned in the Order then made for the pre<g ref="char:EOLhyphen"/>venting of thoſe evils which the curſed <hi>Quakers</hi> in their principles and practices are apt to procure in thoſe places where they come, did order, That all ſuch perſons (not be<g ref="char:EOLhyphen"/>ing Inhabitants of this Juriſdiction, that are of the curſed Sect of the <hi>Quakers</hi>) who have an any time ſuffered what the Laws of this Juriſdiction from time to time have provi<g ref="char:EOLhyphen"/>ded againſt ſuch perſons again arriving in any place of this Juriſdiction, ſhould be ſeized on, and committed to cloſe priſon, there to continue till the next Court of Aſsiſtants, when he, or they ſhall be ſentenced to baniſhment on pain of death.</p>
+               <p>And whereas <hi>William Breud</hi> (a known <hi>Quaker</hi> that hath formerly ſuffered the Laws) hath notwithſtanding the a<g ref="char:EOLhyphen"/>bovementioned Laws, come into this Juriſdiction, being ſent to priſon, and openly before the Court acknowledged himſelf to be one of thoſe the World in ſcorn called <hi>Qua<g ref="char:EOLhyphen"/>kers:</hi> this court doth therefore order, that the ſaid <hi>William Brend</hi> be committed to priſon, there to remain till the 16th. of this inſtant month, and then diſcharged the priſon, and ſhall depart this Juriſdiction on pain of death; and that if after the 18th. day of this inſtant <hi>May,</hi> he ſhall be found within any part of this Juriſdiction, he ſhall be apprehend<g ref="char:EOLhyphen"/>ed and committed to priſon, to be proceeded with accor<g ref="char:EOLhyphen"/>ding to Law:</p>
+               <p>
+                  <hi>This is a true copy of the Courts Order, as attested</hi> Edward Rawſon <hi>Secretary.</hi>
+               </p>
+               <p>
+                  <hi>To the Keeper of the priſon in Boſton, &amp;c. you are required to execute this Order accordingly,</hi>
+               </p>
+               <closer>
+                  <signed>Edw. Rawſon.</signed>
+               </closer>
+            </div>
+            <div type="order">
+               <pb n="9" facs="tcp:45729:5"/>
+               <head>At a General Court held at <hi>Boſton,</hi> the <hi>11.</hi> of <hi>May, 1659.</hi>
+               </head>
+               <p>IT is Ordered, That <hi>Lawrence Southwick,</hi> and <hi>Caſſandra</hi> his Wife, <hi>Samuel Shattook, Nicholas Phelps, Joſhua Buffum,</hi> and <hi>Joſiah Southick,</hi> are hereby Sentenced, according to the Order of the General Court in <hi>October</hi> laſt, to Baniſhment, to depart out of this Juriſdiction by the eighth day of <hi>June</hi> next, on pain of Death; and if any of them after the ſaid eighth day of <hi>June</hi> next, ſhall be found within this Juriſ<g ref="char:EOLhyphen"/>diction, they ſhall be apprehended by any Conſtable or other Officer of this Juriſdiction, and be committed to cloſe priſon, there to lye till the next court of aſſiſtants, where they ſhall be tryed, and being found guilty of the breach of this Law, ſhall be put to death.</p>
+               <p>
+                  <hi>This is a true Copy taken out of the Courts Records, as atteſts</hi>
+               </p>
+               <closer>
+                  <signed>Edw. Rawſon <hi>Secretary.</hi>
+                  </signed>
+               </closer>
+               <argument>
+                  <p>The true cauſe of the baniſhment of thoſe ſix Inhabitants of <hi>Sa<g ref="char:EOLhyphen"/>lem</hi> in <hi>New-England,</hi> was becauſe they went not to their Meeting, and met together by themſelves at each others houſes; the cauſe being ſo ſmall, they were aſhamed its like to tell the crime, or what it was for, in this their ſentence, ſeeing alſo they had impriſoned, &amp; whipt, and taken away great ſums of money from them for the ſame thing before.</p>
+               </argument>
+            </div>
+            <div type="law">
+               <head>The Law for paying <hi>5. s.</hi> a week for ſuch as go not to their Meeting.</head>
+               <p>IT is ordered &amp; decreed by this Court, &amp; Authority there<g ref="char:EOLhyphen"/>of, That whereſoever the Miniſtry of the Word is eſta<g ref="char:EOLhyphen"/>bliſhed, according to the Order of the Goſpel, throughout this juriſdiction, every perſon ſhall duly reſort and attend thereunto reſpectively, upon the Lords Days, and upon ſuch publike Faſt-Days and dayes of Thankſgiving as are to be generally kept by the appointment of Authority; And if a<g ref="char:EOLhyphen"/>ny perſon within this Juriſdiction ſhall without juſt and ne<g ref="char:EOLhyphen"/>ceſſary cauſe withdraw himſelf from hearing the publike Miniſtry of the Word, after due means of conviction uſed,
+<pb n="10" facs="tcp:45729:6"/>he ſhall forfeit for his abſence from any ſuch publike meet<g ref="char:EOLhyphen"/>ing, five ſhillings; all ſuch offences to be heard and determi<g ref="char:EOLhyphen"/>ned by any one magiſtrate or more, from time to time.</p>
+               <p>This Law was made in the year 1646. and of late have been executed upon many Inhabitants, to the taking away land and houſes, cattel and other goods from many that could not in conſcience join with them in their Worſhip, be<g ref="char:EOLhyphen"/>cauſe their hands are defiled with blood.</p>
+               <p>There is certain information ſent, That the laſt General Court held in the third Month, called May that they have made, a Law, and proclaimed it in all their Government, That all ſuch children, and ſervants, and others, that for conſcience ſake cannot come to their meeting to Worſhip, and have not Eſtates in their hands to anſwer this forego<g ref="char:EOLhyphen"/>ing Law of 5. s, <hi>per</hi> Week, muſt be ſold for ſlaves to <hi>Barba<g ref="char:EOLhyphen"/>dos</hi> or <hi>Virgenia,</hi> or other remote parts, to pay their Fines.</p>
+            </div>
+            <div type="law">
+               <head>A Copy of a Law made at <hi>New-Plymouth</hi> in <hi>New-England,</hi> in the firſt Month, <hi>1658.</hi>
+               </head>
+               <p>VVHereas there hath been ſeveral Perſons come into this Government, commonly called <hi>Quakers,</hi> whoſe Doctrines and Practiſes manifeſtly tend to the ſub<g ref="char:EOLhyphen"/>verting of the fundamentals of Chriſtian Religion, Church-Order, and the civil Peace of this Government, as appears by the Teſtimonies given in ſeveral Depoſitions, and other<g ref="char:EOLhyphen"/>wayes; It is Enacted by this Court, and the Authority thereof, That no <hi>Quakers,</hi> nor perſons commonly ſo called, be entertained by any perſon or perſons within this Go<g ref="char:EOLhyphen"/>vernment, under the penalty of Five pounds for every ſuch default, or be whipt; and in caſe any one ſhall entertain any of thoſe perſons, ignorantly, if he ſhall teſtifie on his Oath that he knew them not to be ſuch, he ſhall be free of the aforeſaid penalty, Provided, he upon his firſt diſcover<g ref="char:EOLhyphen"/>ing
+<pb n="11" facs="tcp:45729:6"/>them to be ſuch, do diſcover them to the Conſtable, or his Deputy.</p>
+               <p>It is alſo enacted by the Court, and the Authority there<g ref="char:EOLhyphen"/>of, That if any <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anter</hi> or <hi>Quaker,</hi> or any perſon com<g ref="char:EOLhyphen"/>monly ſo called, ſhall come into any Townſhip within this Government, and by any perſon or perſons, be known or ſuſpected to be ſuch a one, the perſon ſo knowing or ſuſpe<g ref="char:EOLhyphen"/>cting him, ſhall forthwith acquaint the Conſtable or his Deputy, on pain of Preſentment, and ſo liable to cenſure in Court, who forthwith ſhall diligently endeavour to ap<g ref="char:EOLhyphen"/>prehend them, and command them to depart out of the Townſhip, and this Government; and in caſe any ſuch perſon delay or Refuſe to depart, then the ſaid Conſtable or Deputy ſhall apprehend them, or him, and bring him, or them before the Magiſtrate in their Townſhip if there be any, &amp; where there is none, to the Select men appointed by the Court for that purpoſe, who ſhall cauſe him or them to be Whipt by the Conſtable or his Deputy, or pay Five pounds, and then conveighed out of the Townſhip, and the ſame courſe is to be taken with every of them as often as any of them tranſgreſs this Order, in caſe of extremity for Harbour or Food, the Conſtable or his Deputy ſhall Reſerve them for their Money; Provided, They ſuffer not any per<g ref="char:EOLhyphen"/>ſon or perſons to Reſort unto them whileſt they are under their cuſtody.</p>
+               <p>And foraſmuch as the Meetings of ſuch perſons, whether ſtrangers or others, proveth to the deſtructing of the peace of this preſent Government, it is therefore enacted by this Court, and the Authority thereof, That henceforth no ſuch Meeting be aſſembled or kept by any perſon, many place within this Government, under the penalty of 40. s. a time for every Speaker, and 10. s. a time for every Hearer, and 40. s. a time for the owner of the place that permits them ſo to meet together; And if they meet together at their ſilent (ſo called) then every perſon ſo meeting together, ſhall pay 10. s. a time, and the owner of the place 40. s. a time.</p>
+               <p>Foraſmuch as it was ordered at <hi>June</hi>-Court laſt, That all ſuch as were houſe-keepers, or at their own diſpoſe, that
+<pb n="12" facs="tcp:45729:7"/>were not Free-men, and have not taken the Oath of Fideli<g ref="char:EOLhyphen"/>ty to this Government, ſhould take the ſaid Oath by the time then pre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xed, or to be fined to the Collonies uſe the ſum of 5. l. And whereas divers perſons notwithſtanding all patience and long-forbearance, refuſe to take the ſaid Oath, and yet make their reſidence amongſt us, It is therefore ena<g ref="char:EOLhyphen"/>cted by the Court, That every ſuch perſon or perſons ſhall every General Court be ſummoned to make their appear<g ref="char:EOLhyphen"/>ance thereat during the time of their abode in this Govern<g ref="char:EOLhyphen"/>ment; and if any ſuch perſon or perſons ſhall refuſe to take the ſaid Oath, ſhall be fined the ſum of 5. l. to the Collonies uſe.</p>
+               <p>Whereas the multitude of Free-men is but ſmall, and the Inhabitants of the Townſhips many more, who have e<g ref="char:EOLhyphen"/>qual votes with the Free-men in the choice of Deputies, who being the body of the Free-men, Repreſentative toge<g ref="char:EOLhyphen"/>ther with the Magiſtrates, have equal votes for the enacting of Laws, who by weakneſs, prejudice, or otherwaies it hath or may come to paſs, that very unfit or unworthy perſons may be choſen, that cannot anſwer the Courts Truſt in ſuch place.</p>
+               <p>It is therefore ordered, That at ſuch Courts as Magiſtrates and Deputies are to act in, in making Laws, and being aſſem<g ref="char:EOLhyphen"/>bled, the Court in the firſt place take notice of their Mem<g ref="char:EOLhyphen"/>bers, and if they find any unfit for ſuch a truſt, that they, and the reaſon thereof be returned to the town from whence they were ſent, that they may make choiſe of more and able perſons to ſend in their ſtead, as the time will per<g ref="char:EOLhyphen"/>mit.</p>
+               <p>Whereas it hath been an ancient and an wholſom Order, bearing Date, <hi>&amp;c.</hi> That no perſon coming from other parts be allowed an Inhabitant in this Juriſdiction, but by the appointment of the Governor, or two of the Magiſtrates at leaſt, and that many perſons contrary to this order of Court, crept into ſome Townſhips, which are, and may be a great diſturbance to our more peaceable proceedings; Be it enacted, that if any ſuch perſon or perſons ſhall be found, that hath not, doth not, or wil not apply and approve them<g ref="char:EOLhyphen"/>ſelves
+<pb n="13" facs="tcp:45729:7"/>ſo, as to procure the approbation of the Governor, and two of the Aſſiſtants, that ſuch be enquired after; and if any ſuch perſons ſhall be found, that either they depart the Government, or elſe that the Court take ſome ſuch courſe therein, as ſhall be thought meet.</p>
+               <p>It is enacted by the Court, That henceforth no publike Meeting ſhall be ſet up, but ſuch as the Court ſhall ap<g ref="char:EOLhyphen"/>prove of.</p>
+            </div>
+            <div type="law">
+               <head>We had Information, that at a General Court at <hi>New-Ha<g ref="char:EOLhyphen"/>ven,</hi> they made a Law to this effect.</head>
+               <p>THat every <hi>Quaker</hi> that came into their Juriſdiction the firſt time, ſhould be ſeverely Whipt, and be kept at Work in the Houſe of Correction; and the ſecond time be branded in the one Hand, and be kept at Work as aforeſaid; and the third time be branded in the other Hand, and kept at Work; and the fourth time be bored through the tongue with a hot Iron. This is the ſubſtance of their Law as we were informed, though not their Law word for word, be<g ref="char:EOLhyphen"/>cauſe we have not a Copy of it.</p>
+               <p>
+                  <hi>All theſe Laws have been cruelly and rigorouſly executed both on strangers and inhabitants, to the impriſoning, whipping many ſeve<g ref="char:EOLhyphen"/>ral times over, Ear-cuttings, Brandings, and Baniſhments, Confiſ<g ref="char:EOLhyphen"/>cation of Goods, and at laſt baniſhment on pain of death from their Habitations and Families, which at preſent is the ſtate of ſome, and many more its like may be ere this time: Seven were baniſhed on pain of death, and by late information five were in priſon at</hi> Boſton <hi>to receive the like Sentence, beſides what may be more.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="14" facs="tcp:45729:8"/>
+            <head>A true Copy of a Letter which was ſent from one who was a Magiſtrate in <hi>New-England,</hi> to a Friend of his in <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>Honoured SIR,</salute>
+            </opener>
+            <p>MY Reſpects preſented to you and Mrs. <hi>Brown,</hi> ho<g ref="char:EOLhyphen"/>ping and deſiring your preſent and eternal wel<g ref="char:EOLhyphen"/>fare, <hi>&amp;c.</hi> As for the ſtate and condition of things amongſt us, it is fad, and like ſo to continue; the Antichriſti<g ref="char:EOLhyphen"/>an perſecuting ſpirit is very active, and that in the powers of this World; he that will not whip and ſlaſh, baniſih and perſecute men that differ in matters of Religion, muſt not ſit on the Bench, nor ſuſtain any office in Commonwealth; Laſt election Mr. <hi>Hatherly</hi> and my ſelf left off the Bench, and my ſelf diſcharged of my Captain-ſhip, becauſe I had entertained ſome of the <hi>Quakers</hi> at my Houſe (thereby that I might the better be acquainted with their principles;) I thought better ſo to do, then with the blind World to cen<g ref="char:EOLhyphen"/>ſure, condemn, rail, and revile them when they never ſaw their perſons, nor knew any of their principles: But the <hi>Quakers</hi> and my ſelf cannot cloſe in divers things, and ſo I ſignified to the Court I was no <hi>Quaker,</hi> but muſt bear my te<g ref="char:EOLhyphen"/>ſtimony againſt ſundry things that they held, as I had occa<g ref="char:EOLhyphen"/>ſion and opportunity; but withall I told them, That as I was no <hi>Quaker,</hi> ſo I would be no Perſecutor: This ſpirit did work thoſe two years that I was of the Magiſtracy, during which time I was on ſundry occaſions forced to declare my diſcent in ſundry actings of that nature, which although done with all moderation of expreſsion, together with due reſpect unto the reſt, yet it wrought great diſ-affection and prejudice in them againſt me, ſo that if I ſhould ſay ſome of themſelves ſet others on work to frame a Petition againſt
+<pb n="15" facs="tcp:45729:8"/>me, that ſo they might have a ſeeming ground from others (though firſt moved and acted by themſelves) to lay me what they could under reproach) I ſhould do no wrong, the Petition was with nineteen hands, it wil be too long to make rehearſal of; it wrought ſuch a diſturbance in our Town, and in our Military company, that when the Act of Court was read in the Head of the Company, had not I been pre<g ref="char:EOLhyphen"/>ſent, and made a ſpeech to them, I fear there had been ſuch actings as would have been of a ſad conſequence. The court was again followed with another Petition of 54. hands, that I might be reſtored to them, or ſome ſatisfactory Reaſons wherefore I might not: The court return the Petitioners an anſwer with much plauſibleneſs of ſpeech, carrying with it great ſhew of reſpect to them, readily acknowledging with the Petitioners, my parts and gifts, and how uſeful I had been in my Place, profeſsing they had nothing at all againſt me, but onely in that thing of giving entertainment to the <hi>Quakers,</hi> when as I broke no Law in giving them a nights lodging or two, and ſome victuals; for our Law then was, <hi>If any entertain a</hi> quaker, <hi>and keepe him after he is warned by a Magiſtrate to depart, the party ſo entertaining ſhall pay</hi> 20. s. <hi>a week for entertaining them:</hi> Since has been made a Law, <hi>If a<g ref="char:EOLhyphen"/>ny entertain a</hi> quaker, <hi>if but a quarter of an hour, he is to forfeit</hi> 5. l. Another, <hi>That if any ſee a</hi> quaker, <hi>he is bound if he lives ſix miles or more from the Conſtable, yet he muſt preſently go and give notice to the Constable, or elſe is ſubject to the cenſure of Court,</hi> (which may be, <hi>Hang him.</hi>) Another; <hi>That if the Conſtable know or hear of any</hi> quaker <hi>in his Precincts, he is preſently to ap<g ref="char:EOLhyphen"/>prehend him, and if he will not preſently depart the Town, the Con<g ref="char:EOLhyphen"/>ſtable is to whip them, and ſo ſend them away;</hi> and divers have been whipt with us in our Patent; and truly to tell you plainly that the whipping of them with ſuch cruelty as ſome have been whipt, and their patience under it, hath ſometime, been the occaſion of gaining more adherence to them, then if they had ſuffered them openly to have prea<g ref="char:EOLhyphen"/>ched a Sermon: Alſo another Law., <hi>That if there be a</hi> Qua<g ref="char:EOLhyphen"/>kers <hi>meeting any where in this Collony the party in whoſe houſe, or on whoſe ground, is to pay</hi> 40. s. <hi>the Preaching quaker</hi> 40. s. <hi>every
+<pb n="16" facs="tcp:45729:9"/>hearer</hi> 10. s. Yea, and if they have Meetings, though nothing be ſpoken when they ſo meet, which they ſay, So it falls out ſometimes. Our laſt Law, That now they are to be appre<g ref="char:EOLhyphen"/>hended and carryed before a Magiſtrate, and by him com<g ref="char:EOLhyphen"/>mitted to be kept cloſe priſoner until he will promiſe to de<g ref="char:EOLhyphen"/>part, and never come again, and will alſo pay his fees, which I perceive they will do neither the one nor other; and they muſt be kept onely with the Countreys allowance, which is but ſmall, (namely, courſe bread and water) no friend may bring them any thing, none may be permitted to ſpeak to them; nay, if they have money of their own, they may not make uſe of that to relieve themſelves. In the <hi>Maſatu<g ref="char:EOLhyphen"/>ſets</hi> (namely <hi>Boston</hi> Collony) after they have whipt them, cut their ears, have now at laſt gone the furtheſt ſtep they can, they baniſh them upon pain of death if ever they come there again; We expect that we muſt do the like, we muſt dance after their Pipe; Now <hi>Plymouth</hi>-Saddle is upon the Bay-Horſe, (to wit, <hi>Boſton</hi>) we ſhall follow them on the ca<g ref="char:EOLhyphen"/>reer, for it is well if in ſome there be not a deſire to be their apes and imitators in all their proceedings in things of this nature; all theſe carnal and antichriſtian wayes being not of Gods appointment, effect nothing as to the obſtructing or hindering them in their way or courſe, it is onely the Word and Spirit of the Lord that is able to convince gain<g ref="char:EOLhyphen"/>ſayers; they are the mighty Weapons of a chriſtians War<g ref="char:EOLhyphen"/>fare, by which great and mighty things are done and ac<g ref="char:EOLhyphen"/>compliſhed: They have many Meetings, and many adhe<g ref="char:EOLhyphen"/>rents, almoſt the whole town of <hi>Saudwitch</hi> is adhering to<g ref="char:EOLhyphen"/>wards them; and give me leave a little to acquaint you with their ſufferings, which is grievous unto, and ſads the hearts of moſt of the precious Saints of God, it lyes down with them, and riſes up with them, and they cannot put it out of their minds, to ſee and hear of poor Families deprived of their comforts, and they brought into penury and want, (you may ſay, by what means? and to what end?) as far as I am able to iudge of the end, it is to force them from their homes and lawful habitations, and to drive them out of our coaſts; <hi>Maſathuſets</hi> have baniſhed ſix of their own Inha<g ref="char:EOLhyphen"/>bitants
+<pb n="17" facs="tcp:45729:9"/>to be gone on pain of death, and I wiſh that blood be not ſhed; but our poor people are pillaged, and plunde<g ref="char:EOLhyphen"/>ſed of their goods, and happily when they have no more to ſatisfie this unſatiable deſire, at laſt may be forced to fly, and glad they have their lives for a prey: As for the means by which they are ſo impoveriſhed, theſe in the firſt place were ſcupulous of an Oath, why then, we muſt put in force an old Law, that all muſt take the Oath of fidelity, this be<g ref="char:EOLhyphen"/>ing tendred, they will not take it, and then we muſt adde more force to the Law, and that is, if any ſhall refuſe or neglect to take it by ſuch a time, ſhall pay 5 l. or depart the Colony.</p>
+            <p>When the time is come they are the ſame as they were, then goes out the Marſhal, and fetches away their Cows, and other Cattle. Well, another Court comes, they are required to take the Oath again, they cannot, then 5 l. more, on this account 35 head of Cattle, as I am credibly informed, has been by the authority of our Court taken from them the latter part of this Summer; and theſe people ſay, if they have more right to them then themſelves, let them take them, ſome that had a Cow onely, ſome two Cows, ſome three Cowes, and many ſmall Children in their Families, to whom in Summer time, a Cow or two was the greateſt outward comfort they had for their Subſiſtence. A poor Weaver that has ſeven ſmall children, or eight, I know not which, he himſelf lame in his body, had but two cows, and both taken from him, the Marſhall asked him what he would do, he muſt have his Cows, the man ſaid, that God that gave him them, he doubted not, but would ſtill provide for him To fill up the meaſure yet more full, though to the further emptying of <hi>Sandwitch</hi> men of their outward comforts, the laſt Court of aſſiſtants, the firſt <hi>Tueſday</hi> of this inſtant the Court was pleaſed to determine fines on <hi>Sandwitch</hi> men for meetings, ſometimes on firſt dayes of the week, ſometimes on other dayes, as they ſay, they meet ordinarily twice in the week beſides the Lords day, 150 l. whereof <hi>William Nuland</hi> is 24 l. for he and his wife, at 10 s. a meeting, <hi>Wil<g ref="char:EOLhyphen"/>liam Allen</hi> 46. l. ſome affirm it 49 l. the poor Weaver before ſpoken of 20 l. Brother <hi>Cook</hi> told me, one of the Brethren
+<pb n="18" facs="tcp:45729:10"/>at <hi>Baſtable</hi> certifled him that he was in the Weavers houſe when (cruel <hi>Barlow</hi>) <hi>Sandwitch</hi> Marſhal came to do<g ref="char:EOLhyphen"/>mand the ſumme, and he ſaid that he was fully enformed of all the poor man had, and thought if all laid to<g ref="char:EOLhyphen"/>gether it was not worth 10 l. what will be the eud of ſuch courſes and practices, the Lord onely knows, I heartily and earneſily pray, that theſe and ſuch like courſes neither raiſe up amongſt us, nor bring in upon us, either the ſword or any devouring calamity, as a juſt avenger of the Lords quarrel for Acts of injuſtice and oppreſsion, and that we may every oue find out the plague of his own heart, and put away the evil of his own doings, &amp; meet the Lord by entrea<g ref="char:EOLhyphen"/>ties of peace, before it be too late, and there be no remedy.</p>
+            <p>Our Civil Powers are ſo exerciſed in things appertaining to the Kingdome of Chriſt in matters of Religion and Con<g ref="char:EOLhyphen"/>ſcience, that we can have no time to effect any thing, that tends to the promotion of the Civil Weal of the pro<g ref="char:EOLhyphen"/>ſperity of the place, but now we muſt have a State Religion, ſuch as the powers of the world will allow (and no other) a State-Miniſter, and a State way of maintenance, and we muſt worſhip and ſerve the Lord Jeſus, as the world ſhall appoint us, we muſt all go to the publick place of meeting in the Pariſh where he dwells, or be preſented, I am infor<g ref="char:EOLhyphen"/>med of three or fourſcore laſt Court preſented, for not co<g ref="char:EOLhyphen"/>ming to publick meetings, and let me tell you how they brought this about, you may remember a Law once made, called <hi>Thomas Hin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leys</hi> Law, that if any neglected the worſhip of God in the place where he lives, and ſet up a worſhip contrary to God, and the allowance of this Go<g ref="char:EOLhyphen"/>vernment, to the publick prophanation of Gods holy day, and Ordinance ſhall pay 10 s. this Law would not reach, what then was aimed at becauſe he muſt do ſo and ſo, that is, all things there expreſſed, or elſe break not the Law in <hi>March</hi> laſt a court of Deputies was called, and ſome Acts touching Quakers were made; and then they contrived to make this Law to be ſerviceable to them, and that was by putting out the word (and) and put in the word (or) which is a diſ<g ref="char:EOLhyphen"/>junctive, and makes every branch to become a Law, ſo now if any do neglect, or will not come to the publick Meetings,
+<pb n="19" facs="tcp:45729:10"/>10. s. for every defect, certainly, we either have leſs wit, or more money then the <hi>Maſſathuſets,</hi> for, for 5 s. a day a man may ſtay away till it come to 12. or 13 l. if he had it but to pay them: and theſe men altering this Law now in <hi>March,</hi> yet left it dated <hi>June</hi> the 6th 1651. and ſo it ſtands as the Act of a General court, they to be the Authors of it ſe<g ref="char:EOLhyphen"/>ven years before it was in being, and ſo you your ſelf have your part and ſhare in it, if the Recorder lie not, but what may be the reaſon that they ſhould not by another Law made and dated that court, as well effect what was intend<g ref="char:EOLhyphen"/>ed, as by altering a word, (and ſo the whole ſence) of the Law, and leave this their Act by the date of it charged on another courts account; ſurely the chief inſtruments in the buſineſſe, being privy to the Act of Parliament for liberty ſhould too openly have acted repugnant to a Law of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> but if they can do the thing, and leave it on a court as making it ſix years before the Act of Parliament, there can be no danger in this, and that they were privy to the Act of Parliament for liberty to be then in being, is evi<g ref="char:EOLhyphen"/>dent that the Deputies might be free to act it, they told us that now the Protector ſtood not engaged to the articles for liberty; for the Parliament had now taken the power into to their own hands, and had given the Protector a new Oath, onely in general to maintain the Proteſtant Religi<g ref="char:EOLhyphen"/>on, and ſo produced the oath in a Paper in writing, where<g ref="char:EOLhyphen"/>as the Act of Parliament, and the Oath are both in one book in Print, ſo that they that were privy to the one, could not be ignorant of the other, but ſtill all is well, if we can but keep the people ignorant of their liberties and Pri<g ref="char:EOLhyphen"/>viledges, then we have liberty to act in our own wills what we pleaſe, we are wrapped up in a Labyrinth of confuſed Laws, that the free mens power is quite gone, and it was ſaid laſt <hi>June</hi> Court by one, that they knew nothing the freemen had there to do; <hi>Sandwitch</hi> men may not go to the Bay, leaſt they be taken up for Quakers, <hi>William N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land</hi> was there a<g ref="char:EOLhyphen"/>bout his occaſions ſome ten dayes ſince, and they put him in priſon 24 hours, and ſent for divers to witneſs againſt him, but they had not proof enough to make him a Quaker, which if he had he ſhould have been whipt, nay they may
+<pb n="20" facs="tcp:45729:11"/>not go about their own occaſions in other Towns in our Colony but warrants lie in ambuſh to apprehend them, and bring them before a Magiſtrate to give an account of their buſineſſe. Some of the Quakers from <hi>Road</hi> Iſland came to bring them goods to trade with them, and that for far rea<g ref="char:EOLhyphen"/>ſonabler terms, then the profeſſing, oppreſſing Merchants of the Country, but that will not be ſuffered, that unleſſe the Lord ſtep in to their help and aſſiſtance in ſome way be<g ref="char:EOLhyphen"/>yond mans conceiving, their caſe is ſad and to be pitied, and truly, it moves bowels of compaſsion from all ſorts, except thoſe in place, who carry with a high hand towards them, through mercy we have as yet amongſt us worthy Mr. <hi>Dunſter,</hi> whom the Lord has made boldly to bear teſtimony againſt the Spirit of perſecution: Our Bench now is <hi>Tho<g ref="char:EOLhyphen"/>mas Prince,</hi> Governour, Mr. <hi>Collier,</hi> Captain <hi>Willet,</hi> Captain <hi>Winſlow,</hi> Mr. <hi>Alden,</hi> Lieutenant <hi>Southworth, William Bradford, Thomas Hinkly.</hi> Mr. <hi>Collier</hi> laſt <hi>June</hi> would not ſit on the Bench if I ſat there, and now will not ſit the next year, unleſſe he may have 30 l. ſit by him: our Court and Deputies laſt <hi>June</hi> made Captain <hi>Winſlow</hi> a Major, ſurely we are all mer<g ref="char:EOLhyphen"/>cenary Souldiers, that muſt have a Major impoſed on us; Doubtleſſe the next Court they may chooſe us a Governor, and Aſsiſtants alſo, a free man ſhall need to do nothing, but bear ſuch burdens as ſhall be laid upon him; Mr. <hi>Alaen</hi> has deceived the expectation of many, and indeed loſt the af<g ref="char:EOLhyphen"/>fections of ſuch as I judge were his cordiall Chriſtian friends, who is very active in ſuch wayes, as I pray God may not be charged on him, to be oppreſsions of a high nature.</p>
+            <closer>
+               <dateline>
+                  <date>Written in <hi>December 1658.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <argument>
+               <p>This Letter was publiſhed, not by the direction or know<g ref="char:EOLhyphen"/>ledge of the Author, who ſent it over to his friend for pri<g ref="char:EOLhyphen"/>vate information, but ſeeing that upon the peruſall it is found to be of publick concernment, which coming into the hands of ſome, it was thought meet to be publiſhed to the view of all.</p>
+            </argument>
+            <epigraph>
+               <q>Even the ſea Monsters draw out the breaſts, they give ſuck to their young ones. The Daughter of my people is become cruel like the Oſtriches in the wilderneſſe, <bibl>
+                     <hi>Lament. 4.3.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
